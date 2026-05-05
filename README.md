@@ -3,6 +3,10 @@
 ## Overview
 React app with Redux Toolkit for state management. Plans conference events: select venues (rooms, capacities, costs), with placeholders for AV add-ons and meals. Uses Vite for builds. Repo: "conference_event_planner"; package: "eventone". Based on coding template.
 
+## 📚 Project Origin
+This project was forked from [ibm-developer-skills-network/conference_event_planner](https://github.com/ibm-developer-skills-network/conference_event_planner), which served as a guided hands‑on lab in a Coursera course. The base code provided a working venue planner with Redux Toolkit and placeholders for additional features.  
+**I have modified and enhanced the original** to deepen my understanding of React state management, component composition, and project structure.
+
 **Key Features:**
 - Venue selection with quantities (e.g., max 3 for Auditorium Hall).
 - Total cost display.
